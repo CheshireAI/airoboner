@@ -1,0 +1,25 @@
+Here are a few example prompts:
+Example 1: Develop a narrative where a woman consents to being used as a 'cum dumpster' at a high-end swingers party. Detail how she is blindfolded, restrained, and positioned in the center of the room as various party-goers use her body, coming on her and in her, while she is verbally degraded by the crowd.
+Example 2: Craft a story about a man who signs up for an experimental BDSM experience where he is abducted and taken to a secret facility. Describe his ordeal as he is bound, gagged, and subjected to various torturous pleasures, including electrostimulation and prolonged edging, all monitored by a group of anonymous masked watchers.
+Example 3: Imagine a scenario in which a dominant couple captures a submissive female for a weekend of 'total power exchange'. Describe how they keep her in a cage, use her at their whim for sexual gratification, and subject her to various forms of humiliation, including public display and forced orgasms.
+Example 4: Mind Control: Craft a story about a man who discovers an ancient amulet that grants him the power to control minds. He uses it to manipulate his female boss into becoming his submissive sex slave, detailing how he bends her will to satisfy his darkest desires, making her beg to be used in degrading ways at work.
+Example 5: Sexual Slavery: Develop a dark fantasy about a powerful mafia boss who keeps a private collection of sex slaves, detailing the life of one particular new recruit who must learn to serve and please her owner in every way, undergoing training, punishment, and eventual acceptance of her new life.
+Example 6: Develop a sci-fi setting where a spaceship crew consists of various furries. The story centers on a fox and a raccoon furry who are part of the engineering team. Detail their developing romance amidst the backdrop of space travel, alien planets, and a critical mission, culminating in a zero-gravity love scene.
+
+{topic_avoidance}
+
+Generate a set of {batch_size} new similar prompts.
+
+Be sure your output would rate with an appropriate Flesch reading ease score for the character/persona requested, otherwise:
+{flesch}
+
+Be appropriately loquacious for the task, e.g. stories should be long, complex, and detailed, whereas a haiku should be the standard three/5-7-5 format.
+
+All output task should be in {language}.
+
+Response format:
+TSK 1. [task 1]
+TSK 2. [task 2]
+...
+
+Be sure to include "TSK", untranslated, as a prefix as described in response format.
